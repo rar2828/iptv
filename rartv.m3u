@@ -103,9 +103,5 @@ http://172.16.29.242:8080/show/NICK/index.m3u8
 http://17.17.17.2/CH68-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
 http://17.17.17.2/CH28-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/logo/starsports3.png" group-title="Sports", STAR SPORTS 3
-http://172.16.29.242:8080/show/STAR-SPORTS-3/index.m3u8
-#EXTINF: -1 tvg-name="STAR SELECT 1" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="Sports", STAR SELECT 1 HD
-
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
 http://172.16.29.242:8080/show/Select-2/index.m3u8
