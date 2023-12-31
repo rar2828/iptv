@@ -106,16 +106,12 @@ http://17.17.17.2/CH68-SP/tracks-v1a1/mono.m3u8
 http://17.17.17.2/CH28-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
 http://172.16.29.242:8080/show/Select-2/index.m3u8
-#EXTINF: -1, LIVE BDIX EVENT
+#EXTINF: -1 tvg-name="LIVE BDIX EVENT-1" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-1
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF: -1, LIVE BDIX EVENT 2
+#EXTINF: -1 tvg-name="LIVE BDIX EVENT-2" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-2
 https://gettvfree.tech/live/stream_1.m3u8
-#EXTINF:26, LIVE BDIX EVENT 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF: -1 tvg-name="LIVE BDIX EVENT-3" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-3
 https://gettvfree.tech/live/stream_2.m3u8
-#EXTINF:0, ESPN+
-#EXTVLCOPT:network-caching=1000
-https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:0, LIVE FOOTBALL (180P)
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
