@@ -44,8 +44,6 @@ http://17.17.17.2/CH8-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
 http://17.17.17.2/CH9-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
-http://17.17.17.2/CH4-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="Somoy TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbn.wikipedia.org%2Fwiki%2F%25E0%25A6%25B8%25E0%25A6%25AE%25E0%25A6%25AF%25E0%25A6%25BC_%25E0%25A6%259F%25E0%25A6%25BF%25E0%25A6%25AD%25E0%25A6%25BF&psig=AOvVaw3RThcZbNbDgfUqQsUf9VaU&ust=1704077853176000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODw7-_WuIMDFQAAAAAdAAAAABAD" group-title="News", Somoy TV
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
