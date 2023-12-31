@@ -45,8 +45,10 @@ http://172.16.29.242:8080/show/STAR-GOLD-HD/index.m3u8
 http://17.17.17.2/CH8-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
 http://17.17.17.2/CH9-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
+#EXTINF: -1 tvg-name="SOMOY TV-1" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-1
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF: -1 tvg-name="SOMOY TV-2" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-2
+https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Channel-Logo_zee-24-ghanta_280-X-200.jpg" group-title="News", ZEE 24 GHANTA
