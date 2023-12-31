@@ -22,13 +22,13 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
 http://18.18.18.2/gazitv2/tracks-v1a1/mono.m3u8
 
+Movies
+
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
-
 #EXTINF: -1 tvg-name="JASHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JASHA MOVIES
 http://17.17.17.2/CH37-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
+#EXTINF: -1 tvg-name="& PICTURES HD" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURES HD
 http://172.16.29.242:8080/show/And-pictures-HD/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
 http://17.17.17.2/CH16-SP/tracks-v1a1/mono.m3u8
@@ -40,7 +40,6 @@ http://17.17.17.2/CH31-SP/tracks-v1a1/mono.m3u8
 http://172.16.29.242:8080/show/MOVIES-NOW-HD/index.m3u8
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
 http://172.16.29.242:8080/show/STAR-MOVIES-HD/index.m3u8
-
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
 http://172.16.29.242:8080/show/STAR-GOLD-HD/index.m3u8
 
