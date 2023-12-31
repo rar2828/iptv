@@ -19,6 +19,8 @@ https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
 http://18.18.18.2/gazitv2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Entertainment", SANGEET BANGLA
+http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
