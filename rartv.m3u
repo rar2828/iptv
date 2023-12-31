@@ -70,6 +70,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_20
 http://livetvbox.live:8080//live/7878/7878/435.ts
 #EXTINF: -1 tvg-name="ZEE BANGLA-4" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-4
 http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=225786&extension=ts&play_token=EK0KyMLMwe
+#EXTINF: -1 tvg-name="ZEE BANGLA-5" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-5
+http://watchindia.net:8880/live/62448/92037/2283.ts
 
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
 http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
