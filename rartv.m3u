@@ -70,8 +70,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_20
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 http://172.16.29.242:8080/show/STAR-JALSHA/index.m3u8
 
-#EXTINF: -1 tvg-name="SANGEET BHOJPURI" tvg-logo="https://en.wikipedia.org/wiki/Sangeet_Bhojpuri#/media/File:Sangeet_Bhojpuri.jpg" group-title="Music", SANGEET BHOJPURI
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
 http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
@@ -95,8 +93,6 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
 http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 
-#EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://en.wikipedia.org/wiki/Duronto_TV#/media/File:Duronto_TV_Logo.png" group-title="Kids", DURONTO TV
-
 #EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
 http://17.17.17.2/CH44-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
@@ -113,6 +109,3 @@ http://172.16.29.242:8080/show/STAR-SPORTS-3/index.m3u8
 
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
 http://172.16.29.242:8080/show/Select-2/index.m3u8
-
-#EXTINF: -1 tvg-name="BHAKTHI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="Hindu", BHAKTHI TV
-https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index_2.m3u8
