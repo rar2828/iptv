@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF: -1 tvg-name="BTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment", BTV WORLD
-
 #EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="http://172.16.29.242/logo/nagorik.png" group-title="Entertainment", NAGORIK TV
+#EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Entertainment", NAGORIK TV
 http://172.16.29.242:8080/show/NAGORIK-TV/index.m3u8
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
 http://17.17.17.2/CH75-SP/tracks-v1a1/mono.m3u8
