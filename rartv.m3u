@@ -93,11 +93,11 @@ http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 
 #EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
 http://17.17.17.2/CH44-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
+#EXTINF: -2 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
 http://172.16.29.242:8080/show/NICK/index.m3u8
-#EXTINF: -1 tvg-name="Tom&Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKN7mTy7LR9F91Mzz67g5UCvSaUkxPVOtnWjLdffKKQ9pmA5HZSL1GkylLaMoUAzRDMBM&usqp=CAU" group-title="Kids", Tom&Jerry
+#EXTINF: -3 tvg-name="Tom&Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKN7mTy7LR9F91Mzz67g5UCvSaUkxPVOtnWjLdffKKQ9pmA5HZSL1GkylLaMoUAzRDMBM&usqp=CAU" group-title="Kids", Tom&Jerry
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
-#EXTINF: -1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
+#EXTINF: -4 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
