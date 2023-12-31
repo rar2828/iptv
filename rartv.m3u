@@ -24,14 +24,6 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
 http://18.18.18.2/gazitv2/tracks-v1a1/mono.m3u8
 
-
-
-
-
-
-
-
-
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
@@ -42,8 +34,6 @@ http://17.17.17.2/CH37-SP/tracks-v1a1/mono.m3u8
 http://172.16.29.242:8080/show/And-pictures-HD/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
 http://17.17.17.2/CH16-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
-http://172.16.29.242:8080/show/SONY-PIX-HD/index.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
 http://17.17.17.2/CH21-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
@@ -52,22 +42,9 @@ http://17.17.17.2/CH31-SP/tracks-v1a1/mono.m3u8
 http://172.16.29.242:8080/show/MOVIES-NOW-HD/index.m3u8
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
 http://172.16.29.242:8080/show/STAR-MOVIES-HD/index.m3u8
-#EXTINF: -1 tvg-name="GOLDMINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTPejj392fGoNbIVJPJYhDIFdpf598ISk-pelQS2VlMeN6XAWrXAY_h_FidnEwO6r8Bjny_U0xu6cC0gpQst-TLnYrWUPkRgxw2BwliA3G5vvU5y0mWFc0MC5QKQ2oyk3UI9fhVcvq5M0DLuIb8b6tmVEMFpA2lzPwXKjzjVTk2Cs8-BqUEvViPQrw7X6R/s320/Goldmines_Bollywood.png" group-title="Movies", GOLDMINE
-
-#EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
 
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
 http://172.16.29.242:8080/show/STAR-GOLD-HD/index.m3u8
-#EXTINF: -1 tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies", HBO
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
 
 #EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
 http://17.17.17.2/CH8-SP/tracks-v1a1/mono.m3u8
@@ -76,54 +53,24 @@ http://17.17.17.2/CH9-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
 http://17.17.17.2/CH4-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
-http://17.17.17.2/CH13-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
 
 #EXTINF: -1 tvg-name="CALCUTTA NEWS" tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
 https://akdnetwork.co.in/live/cnnew/index.m3u8
-#EXTINF: -1 tvg-name="ABP ANANDA" tvg-logo="https://en.wikipedia.org/wiki/ABP_Ananda#/media/File:ABP_Ananda_logo.svg" group-title="News", ABP ANANDA
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Channel-Logo_zee-24-ghanta_280-X-200.jpg" group-title="News", ZEE 24 GHANTA
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-#EXTINF: -1 tvg-name="TV9 BANGLA" tvg-logo="https://en.wikipedia.org/wiki/TV9_Bangla#/media/File:TV9_Bangla_logo.jpg" group-title="News", TV9 BANGLA
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF: -1 tvg-name="ZEE NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VDAjSOb3b1JHQJsIQjBGxjG5qb_L5llCXGWd9W7ob6vE9O0Q-dJsyKC_El8DlyOl3Uf37TKMsyY0rU4S0ETYKKxuuW0OnK3VMH5J_Rp9f_5WDgvjlvJ-jMggefDC3BRUT63wx-cRnE1NvB_A-uiDHMN9RWWAx7JhKkt5cF3ZwJKV-uCKmfpjnsM8ZIVB/s2939/Zee-news-Logo-PNG_eur68d.png" group-title="News", ZEE NEWS
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF: -1 tvg-name="DWS" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
-http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
 
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-name="AKASH AATH" tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE#/media/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Indian Bangla", AKASH AATH
-
-#EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
-http://17.17.17.2/CH17-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
 http://17.17.17.2/CH15-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD
 http://103.132.181.118:82/play/a00k
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 http://18.18.18.2/ch1/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SUN BANGLA" tvg-logo="http://toffe.top/images/sunbangla.png" group-title="Indian Bangla", SUN BANGLA
-http://103.132.181.118:82/play/a00s
-#EXTINF: -1 tvg-name=" ENTER 10" tvg-logo="http://toffe.top/images/entertain.png" group-title="Indian Bangla", ENTER 10
-https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
 http://172.16.29.242:8080/show/Sony-Aath/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 http://172.16.29.242:8080/show/STAR-JALSHA/index.m3u8
-#EXTINF: -1 tvg-name="SONY SET" tvg-logo="http://toffe.top/images/sonyent.png" group-title="Indian Bangla", SONNY SET
-http://103.132.181.118:82/play/a00h
-
-
-
 
 #EXTINF: -1 tvg-name="SANGEET BHOJPURI" tvg-logo="https://en.wikipedia.org/wiki/Sangeet_Bhojpuri#/media/File:Sangeet_Bhojpuri.jpg" group-title="Music", SANGEET BHOJPURI
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=562400.m3u8
@@ -133,18 +80,6 @@ http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 #EXTINF: -1 tvg-name="GB" tvg-logo="https://en.wikipedia.org/wiki/Gaan_Bangla#/media/File:Gaan_Bangla_Logo.png" group-title="Music", GB
 
-#EXTINF: -1 tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music", MTV BEATS
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-name="BBC EARTH" tvg-logo="http://toffe.top/images/bbcearth.png" group-title="Information", BBC EARTH
-
 #EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
 http://172.16.29.242:8080/show/Animal-Planent/index.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
@@ -153,30 +88,16 @@ http://172.16.29.242:8080/show/Discovery-HD/index.m3u8
 http://172.16.29.242:8080/show/National-Geographi-HD/index.m3u8
 #EXTINF: -1 tvg-name="WILD" tvg-logo="http://toffe.top/images/natgeo.png" group-title="Information", WILD
 
-#EXTINF: -1 tvg-name="" tvg-logo="http://toffe.top/images/travel.png" group-title="Information", TRAVEL XP
-http://172.16.29.242:8080/show/Travelxp/index.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY ENGLISH
 http://103.132.181.118:82/play/a007
 #EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
 http://103.132.181.118:82/play/a00w
 #EXTINF: -1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="Information", DISCOVERY SCIENCE
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF: -1 tvg-name="NASA TV" tvg-logo="https://i.pinimg.com/564x/4f/dc/ff/4fdcffd1b575fe3cf1733f38cb1c09de.jpg" group-title="Information", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
 http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 
-
-
-
-
-
-
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://en.wikipedia.org/wiki/Duronto_TV#/media/File:Duronto_TV_Logo.png" group-title="Kids", DURONTO TV
-
-#EXTINF: -1 tvg-name="CN" tvg-logo="http://toffe.top/images/cn.png" group-title="Kids", CN
-http://17.17.17.2/CH42-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SONY YAY" tvg-logo="https://en.wikipedia.org/wiki/Sony_YAY!#/media/File:Sony_Yay_new.png" group-title="Kids", SONY YAY
 
 #EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
 http://17.17.17.2/CH44-SP/tracks-v1a1/mono.m3u8
@@ -184,21 +105,6 @@ http://17.17.17.2/CH44-SP/tracks-v1a1/mono.m3u8
 http://172.16.29.242:8080/show/NICK/index.m3u8
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
 
-
-
-
-
-
-#EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Entertainment", LIVE SPORTS
-http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Entertainment", T SPORTS
-http://17.17.17.2/CH53-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
-http://17.17.17.2/CH29-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
-http://17.17.17.2/CH27-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
-http://172.16.29.242:8080/show/Sony-Ten-3/index.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
 http://17.17.17.2/CH68-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
@@ -209,42 +115,6 @@ http://172.16.29.242:8080/show/STAR-SPORTS-3/index.m3u8
 
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
 http://172.16.29.242:8080/show/Select-2/index.m3u8
-#EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
-
-#EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=376800.m3u8
-
-
-
-
-
 
 #EXTINF: -1 tvg-name="BHAKTHI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="Hindu", BHAKTHI TV
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index_2.m3u8
-#EXTINF: -1 tvg-name="AASTHA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aastha_Logo.svg/1024px-Aastha_Logo.svg.png" group-title="Hindu", AASTHA TV
-
-#EXTINF: -1 tvg-name="SRI SANKARA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sri_Sankara_TV_Logo.png" group-title="Hindu", SRI SANKARA TV
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_12.m3u8
-#EXTINF: -1 tvg-name="SHUBH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDqN6a1FivftFvLlDFQ2G2WJetTHxktrI0ah-rcBVN14Bh_IFcUEU0KxGWvu6B_5N_dAfx6b10cotUCEzWh-zt1TcFR9HDPA5zFcGA0Khc5pBK934nHs2XlhLyTbSBZzUTPe1vdGqm-Sdn5SyPjxwRrYVNSBd0yUuLzDpHjMMNpIwBZd0WvzthQ3kTScA9/s396/Subha.jpg" group-title="Hindu", SHUBH
-https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index_2.m3u8
-
-
-
-
-
-#EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
-https://yupptvcatchupire.yuppcdn.net/colorsbanglahd/28Dec2023/800/1703737807626_4000.ts
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
-#EXTINF: -1 tvg-name="" tvg-logo="Logo" group-title="Other", Chanal Name
