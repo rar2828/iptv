@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF: -1 tvg-name="NAGORIK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Entertainment", NAGORIK TV
+#EXTINF: -1 tvg-name="NAGORIK TV-1" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Entertainment", NAGORIK TV-1
 http://172.16.29.242:8080/show/NAGORIK-TV/index.m3u8
+#EXTINF: -1 tvg-name="NAGORIK TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Entertainment", NAGORIK TV-2
+http://live.flixhub.net/hls/NAGORIK-TV.m3u8
 #EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
 http://17.17.17.2/CH75-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="Chanal I HD" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I HD
+#EXTINF: -1 tvg-name="Chanal I HD-1" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I HD-1
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-name="Chanal I HD-2" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I HD-2
+http://172.16.29.242:8080/show/Channel-I/index.m3u8
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
@@ -17,8 +21,10 @@ https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="GREEN TV" tvg-logo="http://toffe.top/images/greentv.png" group-title="Entertainment", GREEN TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF: -1 tvg-name="GTV" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV
-http://18.18.18.2/gazitv2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="GTV-1" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-1
+http://172.16.29.242:8080/show/Gazi-TV/index.m3u8
+#EXTINF: -1 tvg-name="GTV-2" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-2
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Entertainment", SANGEET BANGLA
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
@@ -72,6 +78,10 @@ http://livetvbox.live:8080//live/7878/7878/435.ts
 http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=225786&extension=ts&play_token=EK0KyMLMwe
 #EXTINF: -1 tvg-name="ZEE BANGLA-5" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-5
 http://watchindia.net:8880/live/62448/92037/2283.ts
+#EXTINF: -1 tvg-name="ZEE BANGLA-6" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-6
+http://172.16.29.242:8080/show/ZEE-BANGLA-HD/index.m3u8
+#EXTINF: -1 tvg-name="ZEE BANGLA-7" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-7
+ttp://live.flixhub.net/hls/ZEE-BANGLA-HD.m3u8
 
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
 http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
