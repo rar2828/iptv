@@ -5,8 +5,6 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8
 http://172.16.29.242:8080/show/NAGORIK-TV/index.m3u8
 #EXTINF: -1 tvg-name="NAGORIK TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Entertainment", NAGORIK TV-2
 http://live.flixhub.net/hls/NAGORIK-TV.m3u8
-#EXTINF: -1 tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment", DIPTO TV
-http://17.17.17.2/CH75-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Chanal I HD-1" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I HD-1
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="Chanal I HD-2" tvg-logo="http://toffe.top/images/Channel%20i1664976520.png" group-title="Entertainment", Chanal I HD-2
@@ -30,16 +28,8 @@ http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 
 #EXTINF: -1 tvg-name="MOVIE BANGLA" tvg-logo="https://www.moviebangla.tv/images/moviebanglatv%20logo.png" group-title="Movies", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF: -1 tvg-name="JASHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JASHA MOVIES
-http://17.17.17.2/CH37-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="& PICTURES HD" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURES HD
 http://172.16.29.242:8080/show/And-pictures-HD/index.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
-http://17.17.17.2/CH16-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
-http://17.17.17.2/CH21-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
-http://17.17.17.2/CH31-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
 http://172.16.29.242:8080/show/MOVIES-NOW-HD/index.m3u8
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
@@ -47,12 +37,8 @@ http://172.16.29.242:8080/show/STAR-MOVIES-HD/index.m3u8
 #EXTINF: -1 tvg-name="STAR GOLD" tvg-logo="http://toffe.top/images/stargold.png" group-title="Movies", STAR GOLD
 http://172.16.29.242:8080/show/STAR-GOLD-HD/index.m3u8
 
-#EXTINF: -1 tvg-name="NEWS 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", NEWS 24
-http://17.17.17.2/CH8-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="CHANNEL 24" tvg-logo="http://toffe.top/images/news24.png" group-title="News", CHANNEL 24
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
-http://17.17.17.2/CH9-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="News", DBC
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-1" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-1
@@ -62,10 +48,8 @@ https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-3" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-3
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-4" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-4
-https://www.youtube.com/watch?v=DhWws2isuS8
+http://live.flixhub.net/hls/Somoy-Tv.m3u8
 
-#EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
-http://18.18.18.2/ch1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
 http://172.16.29.242:8080/show/STAR-JALSHA/index.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
@@ -83,45 +67,39 @@ http://watchindia.net:8880/live/62448/92037/2283.ts
 #EXTINF: -1 tvg-name="ZEE BANGLA-6" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-6
 http://172.16.29.242:8080/show/ZEE-BANGLA-HD/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-7" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-7
-ttp://live.flixhub.net/hls/ZEE-BANGLA-HD.m3u8
+http://live.flixhub.net/hls/ZEE-BANGLA-HD.m3u8
 
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
-http://17.17.17.2/CH25-SP/tracks-v1a1/mono.m3u8
+http://172.16.29.242:8080/show/9xm/index.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+http://172.16.29.242:8080/show/Sangeet-Banglaa/index.m3u8
 
-#EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
-http://172.16.29.242:8080/show/Animal-Planent/index.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
 http://172.16.29.242:8080/show/Discovery-HD/index.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY ENGLISH
 http://103.132.181.118:82/play/a007
 #EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
-http://172.16.29.242:8080/show/National-Geographi-HD/index.m3u8
-#EXTINF: -1 tvg-name="ANIMAL PLANET ENGLISH" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET ENGLISH
-http://103.132.181.118:82/play/a00w
-#EXTINF: -1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png" group-title="Information", DISCOVERY SCIENCE
-https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF: -1 tvg-name="HISTORY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="Information", HISTORY TV
-http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
+http://172.16.29.242:8080/show/Sangeet-Banglaa/index.m3u8
 
-#EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
-http://17.17.17.2/CH44-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -2 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
 http://172.16.29.242:8080/show/NICK/index.m3u8
-#EXTINF: -3 tvg-name="Tom&Jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKN7mTy7LR9F91Mzz67g5UCvSaUkxPVOtnWjLdffKKQ9pmA5HZSL1GkylLaMoUAzRDMBM&usqp=CAU" group-title="Kids", Tom&Jerry
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
 #EXTINF: -4 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -2 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
-http://17.17.17.2/CH68-SP/tracks-v1a1/mono.m3u8
+http://172.16.29.242:8080/show/STAR-SPORTS-1-HD/index.m3u8
 #EXTINF: -3 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
-http://17.17.17.2/CH28-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -4 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
-http://172.16.29.242:8080/show/Select-2/index.m3u8
+http://172.16.29.242:8080/show/Star-Sports-2-HD/index.m3u8
+#EXTINF: -3 tvg-name="STAR SPORTS 3" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 3
+http://172.16.29.242:8080/show/STAR-SPORTS-3/index.m3u8
+#EXTINF: -4 tvg-name="SONY TEN-1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/220?cb=20190322143617" group-title="Sports", SONY TEN-1
+http://172.16.29.242:8080/show/SONY-TEN-1/index.m3u8
+#EXTINF: -4 tvg-name="SONY TEN-2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848" group-title="Sports", SONY TEN-2
+http://172.16.29.242:8080/show/Sony-Ten-2/index.m3u8
+#EXTINF: -4 tvg-name="SONY TEN-3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" group-title="Sports", SONY TEN-3
+http://172.16.29.242:8080/show/Sony-Ten-3/index.m3u8
 #EXTINF: -5 tvg-name="LIVE BDIX EVENT-1" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-1
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -6 tvg-name="LIVE BDIX EVENT-2" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-2
