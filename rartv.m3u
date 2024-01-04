@@ -75,7 +75,7 @@ http://watchindia.net:8880/live/62448/92037/2283.ts
 #EXTINF: -1 tvg-name="ZEE BANGLA-6" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-6
 http://172.16.29.242:8080/show/ZEE-BANGLA-HD/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-7" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-7
-http://live.flixhub.net/hls/5008.m3u8
+http://live.flixhub.net/hls/5048.m3u8
 
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
 http://172.16.29.242:8080/show/9xm/index.m3u8
