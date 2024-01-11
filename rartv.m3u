@@ -22,6 +22,16 @@ http://live.flixhub.net/hls/5008.m3u8
 http://172.16.29.242:8080/show/5039/index.m3u8
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
 http://172.16.29.242:8080/show/5021/index.m3u88
+#EXTINF: -1 tvg-name="JASHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JASHA MOVIES
+http://172.16.29.242:8080/show/5054/index.m3u8
+#EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
+http://172.16.29.242:8080/show/5039/index.m3u8
+#EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
+http://172.16.29.242:8080/show/5050/index.m3u8
+#EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
+http://172.16.29.242:8080/show/5022/index.m3u8
+#EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
+http://17.17.17.2/CH21-SP/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg",ATN News
 http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
@@ -54,6 +64,8 @@ https://somoy-tv.mssarena71.workers.dev/stream/somoynews360/master.m3u8
 http://172.16.29.242:8080/show/5053/index.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
 http://172.16.29.242:8080/show/Sony-Aath/index.m3u8
+#EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
+http://172.16.29.242:8080/show/COLORS-BANGLA/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-1" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-1
 http://103.132.181.118:82/play/a00k
 #EXTINF: -1 tvg-name="ZEE BANGLA-2" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-2
@@ -68,38 +80,60 @@ http://watchindia.net:8880/live/62448/92037/2283.ts
 http://172.16.29.242:8080/show/5048/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-7" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-7
 http://live.flixhub.net/hls/5048.m3u8
+#EXTINF: -1 tvg-name="ZEE BANGLA-8" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD-8
+http://17.17.17.2/CH18-SP/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="ZEE BANGLA-9" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-9
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
-http://172.16.29.242:8080/show/9xm/index.m3u8
+http://172.16.29.242:8080/show/4122/index.m3u8
 #EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
-http://172.16.29.242:8080/show/Sangeet-Banglaa/index.m3u8
+http://172.16.29.242:8080/show/4120/index.m3u8
+#EXTINF: -1 tvg-name="GB" tvg-logo="http://172.16.29.242/assets/images/gaanbangla.png" group-title="Music", GB
+http://172.16.29.242:8080/show/4018/index.m3u8
+#EXTINF: -1 tvg-name="RTV MUSIC" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" group-title="Music", RTV MUSIC
+https://rtv-music.mssarena71.workers.dev/stream/RtvMusic/master.m3u
 
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
-http://172.16.29.242:8080/show/Discovery-HD/index.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY ENGLISH
-http://103.132.181.118:82/play/a007
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
-http://172.16.29.242:8080/show/Sangeet-Banglaa/index.m3u8
+http://172.16.29.242:8080/show/5036/index.m3u8
 
-#EXTINF: -2 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
-http://172.16.29.242:8080/show/NICK/index.m3u8
 #EXTINF: -4 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
+http://172.16.29.242:8080/show/5063/index.m3u8
 
+#EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Entertainment", LIVE SPORTS
+http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Entertainment", T SPORTS
+http://17.17.17.2/CH53-SP/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
+http://17.17.17.2/CH29-SP/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
+http://17.17.17.2/CH27-SP/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
+http://172.16.29.242:8080/show/Sony-Ten-3/index.m3u8
+#EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
+http://17.17.17.2/CH68-SP/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
+http://172.16.29.242:8080/show/5042/index.m3u8
+#EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/assets/images/starsports3.png" group-title="Sports", STAR SPORTS 3
+http://172.16.29.242:8080/show/5019/index.m3u8
+#EXTINF: -1 tvg-name="STAR SELECT 1" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="Sports", STAR SELECT 1 HD
+http://17.17.17.2/CH54-SP/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
+http://172.16.29.242:8080/show/Select-2/index.m3u8
+#EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
+http://17.17.17.2/CH51-SP/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
+https://livevoot.co.in//voot/master.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF: -2 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
-http://172.16.29.242:8080/show/STAR-SPORTS-1-HD/index.m3u8
-#EXTINF: -3 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
-http://172.16.29.242:8080/show/Star-Sports-2-HD/index.m3u8
-#EXTINF: -3 tvg-name="STAR SPORTS 3" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 3
-http://172.16.29.242:8080/show/STAR-SPORTS-3/index.m3u8
-#EXTINF: -4 tvg-name="SONY TEN-1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/220?cb=20190322143617" group-title="Sports", SONY TEN-1
-http://172.16.29.242:8080/show/SONY-TEN-1/index.m3u8
-#EXTINF: -4 tvg-name="SONY TEN-2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848" group-title="Sports", SONY TEN-2
-http://172.16.29.242:8080/show/Sony-Ten-2/index.m3u8
-#EXTINF: -4 tvg-name="SONY TEN-3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" group-title="Sports", SONY TEN-3
-http://172.16.29.242:8080/show/Sony-Ten-3/index.m3u8
 #EXTINF: -5 tvg-name="LIVE BDIX EVENT-1" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-1
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -6 tvg-name="LIVE BDIX EVENT-2" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-2
