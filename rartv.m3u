@@ -20,18 +20,12 @@ http://live.flixhub.net/hls/5008.m3u8
 
 #EXTINF: -1 tvg-name="& PICTURES HD" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURES HD
 http://172.16.29.242:8080/show/5039/index.m3u8
-#EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
-http://172.16.29.242:8080/show/5021/index.m3u88
 #EXTINF: -1 tvg-name="JASHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JASHA MOVIES
 http://172.16.29.242:8080/show/5054/index.m3u8
-#EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
-http://172.16.29.242:8080/show/5039/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
 http://172.16.29.242:8080/show/5050/index.m3u8
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
 http://172.16.29.242:8080/show/5022/index.m3u8
-#EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
-http://17.17.17.2/CH21-SP/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg", ATN News
 http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
