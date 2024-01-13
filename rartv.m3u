@@ -102,30 +102,32 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
 http://172.16.29.242:8080/show/5063/index.m3u8
 
-#EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Entertainment", LIVE SPORTS
+#EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS
 http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="T SPORTS" tvg-logo="http://toffe.top/images/tsports.png" group-title="Entertainment", T SPORTS
-http://17.17.17.2/CH53-SP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 1" tvg-logo="http://toffe.top/images/sonyten1.png" group-title="Sports", SONY SPORTS 1
-http://17.17.17.2/CH29-SP/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/5056.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 2" tvg-logo="http://toffe.top/images/sonyten2.png" group-title="Sports", SONY SPORTS 2
-http://17.17.17.2/CH27-SP/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/5044.m3u8
 #EXTINF: -1 tvg-name="SONY SPORTS 3" tvg-logo="http://toffe.top/images/sonyten3.png" group-title="Sports", SONY SPORTS 3
-http://172.16.29.242:8080/show/Sony-Ten-3/index.m3u8
+http://live.flixhub.net/hls/5045.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="http://toffe.top/images/starsp1.png" group-title="Sports", STAR SPORTS 1
-http://17.17.17.2/CH68-SP/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/5052.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
-http://172.16.29.242:8080/show/5042/index.m3u8
+http://live.flixhub.net/hls/5042.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/assets/images/starsports3.png" group-title="Sports", STAR SPORTS 3
-http://172.16.29.242:8080/show/5019/index.m3u8
+http://live.flixhub.net/hls/5019.m3u8
 #EXTINF: -1 tvg-name="STAR SELECT 1" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="Sports", STAR SELECT 1 HD
-http://17.17.17.2/CH54-SP/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/5055.m3u8
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
-http://172.16.29.242:8080/show/Select-2/index.m3u8
+http://live.flixhub.net/hls/5043.m3u8
 #EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
-http://17.17.17.2/CH51-SP/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/4151.m3u8
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
-https://livevoot.co.in//voot/master.m3u8?id=Sports18_1_HD_voot_MOB
+http://live.flixhub.net/hls/5062.m3u8
+#EXTINF: -1 tvg-name="Willow HD" tvg-logo="https://i.pinimg.com/736x/04/c7/03/04c703a32afbdb1f6893b6ab3cb22476.jpg" group-title="Sports", Willow HD
+http://live.flixhub.net/hls/5070.m3u8
+#EXTINF: -1 tvg-name="TEN Sports" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", TEN Sports
+http://live.flixhub.net/hls/5068.m3u8
 #EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -5 tvg-name="LIVE BDIX EVENT-1" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-1
