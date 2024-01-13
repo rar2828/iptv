@@ -126,7 +126,7 @@ http://live.flixhub.net/hls/4151.m3u8
 http://live.flixhub.net/hls/5062.m3u8
 #EXTINF: -1 tvg-name="Willow HD" tvg-logo="https://i.pinimg.com/736x/04/c7/03/04c703a32afbdb1f6893b6ab3cb22476.jpg" group-title="Sports", Willow HD
 http://live.flixhub.net/hls/5070.m3u8
-#EXTINF: -1 tvg-name="TEN Sports" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", TEN Sports
+#EXTINF: -1 tvg-name="TEN Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports", TEN Sports
 http://live.flixhub.net/hls/5068.m3u8
 #EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
