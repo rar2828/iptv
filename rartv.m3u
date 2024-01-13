@@ -54,7 +54,7 @@ https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m
 #EXTINF: -1 tvg-name="SOMOY TV-4" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-4
 http://live.flixhub.net/hls/4010.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-5" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-5
-http://172.16.29.242:8080/show/4010/index.m3u8
+http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-6" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-6
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-7" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-7
