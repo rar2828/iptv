@@ -33,9 +33,9 @@ http://172.16.29.242:8080/show/5022/index.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
 http://17.17.17.2/CH21-SP/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg",ATN News
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg", ATN News
 http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
-#EXTINF:-1 group-title="Palki.tv" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png",Independent
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png", Independent
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
 #EXTINF: -1 tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="News", DBC
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
