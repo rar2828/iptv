@@ -17,6 +17,8 @@ https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 http://172.16.29.242:8080/show/5008/index.m3u8
 #EXTINF: -1 tvg-name="GTV-2" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-2
 http://live.flixhub.net/hls/5008.m3u8
+#EXTINF: -1 tvg-name="GTV-2" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-2
+http://172.16.29.3:8080/hls/gtv.m3u8
 
 #EXTINF: -1 tvg-name="& PICTURES HD" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURES HD
 http://172.16.29.242:8080/show/5039/index.m3u8
@@ -54,12 +56,14 @@ http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-6" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-6
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-7" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-7
-https://somoy-tv.mssarena71.workers.dev/stream/somoynews360/master.m3u8
+http://172.16.29.242:8080/show/4010/index.m3u8
 
-#EXTINF: -1 tvg-name="STAR JALSHA" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA
-http://172.16.29.242:8080/show/5053/index.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA-1" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-1
 http://live.flixhub.net/hls/5053.m3u8
+#EXTINF: -1 tvg-name="STAR JALSHA-2" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-2
+http://172.16.29.242:8080/show/5053/index.m3u8
+#EXTINF: -1 tvg-name="STAR JALSHA-3" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-3
+http://172.16.29.242:8080/show/5053/index.m3u8
 #EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
 http://172.16.29.242:8080/show/Sony-Aath/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
@@ -81,6 +85,7 @@ http://live.flixhub.net/hls/5048.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-8" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD-8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-9" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-9
+http://172.16.29.242:8080/show/5048/index.m3u8
 
 
 #EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
@@ -135,7 +140,7 @@ http://live.flixhub.net/hls/5068.m3u8
 #EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -5 tvg-name="LIVE BDIX EVENT-1" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-1
-http://113.212.111.246:8080/hls/col12.m3u8
+http://172.16.29.3:8080/hls/sports4.m3u8
 #EXTINF: -6 tvg-name="LIVE BDIX EVENT-2" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-2
 https://gettvfree.tech/live/stream_1.m3u8
 #EXTINF: -7 tvg-name="LIVE BDIX EVENT-3" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-3
