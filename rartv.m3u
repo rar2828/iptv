@@ -26,6 +26,8 @@ https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 https://independent-tv.mssarena71.workers.dev/stream/IndependentTelevision/master.m3u8
 #EXTINF: -1 tvg-name="Jamuna TV" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="News", Jamuna TV
 http://live.flixhub.net/hls/4005.m3u8
+#EXTINF:-1 ,Ekushay TV(BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-1" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-1
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-2" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-2
@@ -113,3 +115,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF: -11 tvg-name="LIVE BDIX EVENT-7" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-7
 http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8
+#EXTINF:-1 ,TATA IPL 2024 Star Sports 1 HD
+https://vkvsd167.mycdn.me/hls/6206613228263.m3u8/sig/9eNK5y4N82s/srcIp/110.226.33.187/urls/45.136.21.46/expires/1712016284860/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7320381959143/id/6206613228263/video.m3u8?p
+#EXTINF:-1 ,Super Sports 🏏
+https://catowrap.live/mrgamingsscric.m3u8
