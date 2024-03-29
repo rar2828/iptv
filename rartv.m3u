@@ -93,6 +93,8 @@ http://live.flixhub.net/hls/5062.m3u8
 http://live.flixhub.net/hls/5068.m3u8
 #EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 ,LIVE FOOTBALL (720P)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF: -5 tvg-name="LIVE BDIX EVENT-1" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-1
 http://172.16.29.3:8080/hls/sports4.m3u8
 #EXTINF: -8 tvg-name="LIVE BDIX EVENT-2" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-2
