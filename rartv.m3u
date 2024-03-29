@@ -20,29 +20,12 @@ http://live.flixhub.net/hls/5008.m3u8
 #EXTINF: -1 tvg-name="GTV-2" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-2
 http://172.16.29.3:8080/hls/gtv.m3u8
 
-#EXTINF: -1 tvg-name="& PICTURES HD" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURES HD
-http://172.16.29.242:8080/show/5039/index.m3u8
-#EXTINF: -1 tvg-name="JASHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JASHA MOVIES
-http://172.16.29.242:8080/show/5054/index.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
-http://172.16.29.242:8080/show/5050/index.m3u8
-#EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
-http://172.16.29.242:8080/show/5022/index.m3u8
-#EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://www.logo.wine/a/logo/Sony_Max/Sony_Max-Logo.wine.svg" group-title="Movies", SONY MAX
-http://live.flixhub.net/hls/5029.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg", ATN News
-http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png", Independent
-http://cdn01.palki.tv/live/Independent-M/index.m3u8
 #EXTINF: -1 tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="News", DBC
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="Independent News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1024px-Independent_Television_Logo.svg.png" group-title="News", Independent News
 https://independent-tv.mssarena71.workers.dev/stream/IndependentTelevision/master.m3u8
 #EXTINF: -1 tvg-name="Jamuna TV" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="News", Jamuna TV
 http://live.flixhub.net/hls/4005.m3u8
-#EXTINF: -1 tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1024px-Ekattor_TV_logo.svg.png" group-title="News", Ekattor TV
-https://ekattor-tv.mssarena71.workers.dev/stream/EkattorTelevision/master.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-1" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-1
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-2" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-2
@@ -55,8 +38,6 @@ http://live.flixhub.net/hls/4010.m3u8
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-6" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-6
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
-#EXTINF: -1 tvg-name="SOMOY TV-7" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-7
-http://172.16.29.242:8080/show/4010/index.m3u8
 
 #EXTINF: -1 tvg-name="STAR JALSHA-1" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-1
 http://live.flixhub.net/hls/5053.m3u8
@@ -64,10 +45,6 @@ http://live.flixhub.net/hls/5053.m3u8
 http://172.16.29.242:8080/show/5053/index.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA-3" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-3
 http://172.16.29.242:8080/show/5053/index.m3u8
-#EXTINF: -1 tvg-name="SONY AATH" tvg-logo="http://toffe.top/images/sonyath.png" group-title="Indian Bangla", SONNY AATH
-http://172.16.29.242:8080/show/Sony-Aath/index.m3u8
-#EXTINF: -1 tvg-name="COLORS BANGLA" tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Indian Bangla", COLORS BANGLA
-http://172.16.29.242:8080/show/COLORS-BANGLA/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-1" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-1
 http://live.flixhub.net/hls/5048.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-2" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-2
@@ -87,16 +64,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_20
 #EXTINF: -1 tvg-name="ZEE BANGLA-9" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-9
 http://172.16.29.242:8080/show/5048/index.m3u8
 
-
-#EXTINF: -1 tvg-name="9XM" tvg-logo="http://toffe.top/images/9xm.png" group-title="Music", 9XM
-http://172.16.29.242:8080/show/4122/index.m3u8
-#EXTINF: -1 tvg-name="SANGEET BANGLA" tvg-logo="http://toffe.top/images/sangeetbangla.png" group-title="Music", SANGEET BANGLA
-http://172.16.29.242:8080/show/4120/index.m3u8
-#EXTINF: -1 tvg-name="GB" tvg-logo="http://172.16.29.242/assets/images/gaanbangla.png" group-title="Music", GB
-http://172.16.29.242:8080/show/4018/index.m3u8
-#EXTINF: -1 tvg-name="RTV MUSIC" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" group-title="Music", RTV MUSIC
-https://rtv-music.mssarena71.workers.dev/stream/RtvMusic/master.m3u
-
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY ENGLISH
@@ -105,11 +72,6 @@ http://live.flixhub.net/hls/5026.m3u8
 http://172.16.29.242:8080/show/5025/index.m3u8
 #EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
 http://172.16.29.242:8080/show/5036/index.m3u8
-
-#EXTINF: -4 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
-http://172.16.29.242:8080/show/5063/index.m3u8
 
 #EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS
 http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
@@ -133,8 +95,6 @@ http://live.flixhub.net/hls/5043.m3u8
 http://live.flixhub.net/hls/4151.m3u8
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
 http://live.flixhub.net/hls/5062.m3u8
-#EXTINF: -1 tvg-name="Willow HD" tvg-logo="https://i.pinimg.com/736x/04/c7/03/04c703a32afbdb1f6893b6ab3cb22476.jpg" group-title="Sports", Willow HD
-http://live.flixhub.net/hls/5070.m3u8
 #EXTINF: -1 tvg-name="TEN Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports", TEN Sports
 http://live.flixhub.net/hls/5068.m3u8
 #EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS
