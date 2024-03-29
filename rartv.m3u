@@ -41,6 +41,8 @@ http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 http://live.flixhub.net/hls/5053.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA-2" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-2
 http://172.16.29.242:8080/show/5053/index.m3u8
+#EXTINF: -1 ,STAR JALSHA HD-3
+http://195.26.87.217/live.ts?channelId=116&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="ZEE BANGLA-1" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-1
 http://live.flixhub.net/hls/5048.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-2" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-2
