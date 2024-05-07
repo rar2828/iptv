@@ -17,17 +17,11 @@ http://172.16.29.242:8080/show/5008/index.m3u8
 http://live.flixhub.net/hls/5008.m3u8
 #EXTINF: -1 tvg-name="GTV-3" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-3
 http://172.16.29.3:8080/hls/gtv.m3u8
-#EXTINF: -1 tvg-name="GTV-4" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-4
-http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF: -1 tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="News", DBC
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="Jamuna TV" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="News", Jamuna TV
 http://live.flixhub.net/hls/4005.m3u8
-#EXTINF:-1 ,Ekushay TV(BDIX)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF: -1 tvg-name="SOMOY TV-1" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-1
-http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-2" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-2
 https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="SOMOY TV-3" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV-3
@@ -39,8 +33,6 @@ http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 http://live.flixhub.net/hls/5053.m3u8
 #EXTINF: -1 tvg-name="STAR JALSHA-2" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-2
 http://172.16.29.242:8080/show/5053/index.m3u8
-#EXTINF: -1 ,STAR JALSHA HD-3
-http://195.26.87.217/live.ts?channelId=116&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-name="ZEE BANGLA-1" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-1
 http://live.flixhub.net/hls/5048.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-2" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-2
@@ -49,15 +41,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_20
 http://172.16.29.242:8080/show/5048/index.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-4" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-4
 http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=225786&extension=ts&play_token=EK0KyMLMwe
-#EXTINF: -1 tvg-name="ZEE BANGLA-5" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-5
-http://watchindia.net:8880/live/62448/92037/2283.ts
-#EXTINF: -1 tvg-name="ZEE BANGLA-6" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-6
-http://xtv.ooo:8080/T4S00515/820172/245893
 
 #EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY BANGLA
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF: -1 tvg-name="DISCOVERY ENGLISH" tvg-logo="http://toffe.top/images/discovery.png" group-title="Information", DISCOVERY ENGLISH
-http://live.flixhub.net/hls/5026.m3u8
 #EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://toffe.top/images/animalplanet.png" group-title="Information", ANIMAL PLANET
 http://172.16.29.242:8080/show/5025/index.m3u8
 #EXTINF: -1 tvg-name="NATIONAL GEOGRAPHY" tvg-logo="http://toffe.top/images/nationalgeo.png" group-title="Information", NATIONAL GEOGRAPHY
@@ -77,8 +63,6 @@ http://live.flixhub.net/hls/5045.m3u8
 http://live.flixhub.net/hls/5052.m3u8
 #EXTINF: -1 tvg-name="STAR SPORTS 2" tvg-logo="http://toffe.top/images/starsp2.png" group-title="Sports", STAR SPORTS 2
 http://live.flixhub.net/hls/5042.m3u8
-#EXTINF: -1 tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.242/assets/images/starsports3.png" group-title="Sports", STAR SPORTS 3
-http://live.flixhub.net/hls/5019.m3u8
 #EXTINF: -1 tvg-name="STAR SELECT 1" tvg-logo="http://toffe.top/images/starsportssetec.jpg" group-title="Sports", STAR SELECT 1 HD
 http://live.flixhub.net/hls/5055.m3u8
 #EXTINF: -1 tvg-name="STAR SELECT 2" tvg-logo="http://toffe.top/images/starsps2.png" group-title="Sports", STAR SELECT 2 HD
