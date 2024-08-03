@@ -17,6 +17,8 @@ http://172.16.29.242:8080/show/5008/index.m3u8
 http://live.flixhub.net/hls/5008.m3u8
 #EXTINF: -1 tvg-name="GTV-3" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-3
 http://172.16.29.3:8080/hls/gtv.m3u8
+#EXTINF: -1 tvg-name="Zamuna TV" tvg-logo="https://media.licdn.com/dms/image/D560BAQFSqJwFY_W_5A/company-logo_200_200/0/1686316063278/jamuna_television_ltd_logo?e=2147483647&v=beta&t=ebcksWsIAUHYvpBALo8hM-jqzypzxZMXtPYb4jIFqgA", GTV-3
+http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF: -1 tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="News", DBC
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
@@ -96,4 +98,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF: -1 ,TATA IPL 2024 Star Sports 1 HD
 https://vkvsd167.mycdn.me/hls/6206613228263.m3u8/sig/9eNK5y4N82s/srcIp/110.226.33.187/urls/45.136.21.46/expires/1712016284860/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7320381959143/id/6206613228263/video.m3u8?p
 #EXTINF: -1 ,Super Sports 🏏
+https://catowrap.live/mrgamingsscric.m3u8
+
+MOVIE
+#EXTINF: -1 ,Brinda : Season 1
 https://catowrap.live/mrgamingsscric.m3u8
