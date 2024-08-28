@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF: -1 tvg-name="NAGORIK TV-1" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Entertainment", NAGORIK TV-1
 http://172.16.29.242:8080/show/5007/index.m3u8
+#EXTINF: -1 tvg-name="NAGORIK TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Entertainment", NAGORIK TV-2
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=m_dPl-sJ3u6SGSlvJOBsYA&expires=1724791848&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Entertainment", SATV
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Entertainment", BOISAKHI TV
@@ -8,7 +10,7 @@ https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="RTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Entertainment", RTV HD
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="GTV-1" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-1
-http://172.16.29.242:8080/show/5008/index.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=8UwKHLgZ66XH4t9466Wh4Q&expires=1724791590&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF: -1 tvg-name="GTV-2" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-2
 http://opplex.tv:8080/6606/123654/245901
 #EXTINF: -1 tvg-name="GTV-3" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-3
@@ -40,6 +42,8 @@ http://opplex.tv:8080/6606/123654/245893
 http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
 #EXTINF: -1 tvg-name="ZEE BANGLA-6" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-6
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
+#EXTINF: -1 tvg-name="ZEE BANGLA-7" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-7
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=aLOhTVGUTx8ob-YtE6sQmg&expires=1724792184&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF: -1 tvg-name="LIVE SPORTS" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS
 http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
@@ -48,7 +52,7 @@ http://172.16.29.242:8080/hls/sports4/index.m3u8
 #EXTINF: -1 tvg-name="TEN Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports", TEN Sports
 http://live.flixhub.net/hls/5068.m3u8
 #EXTINF: -1 tvg-name="T-SPORTS-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-1
-http://113.212.111.246:8080/hls/col12.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=qqbp1zPsiZh_qpit09ZAfA&expires=1724792162&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF: -1 tvg-name="T-SPORTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-2
 http://xtv.ooo:8080/T4S00515/820172/167590
 #EXTINF: -1 tvg-name="T-SPORTS-3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-3
