@@ -10,7 +10,7 @@ https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="GTV-1" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-1
 http://172.16.29.242:8080/show/5008/index.m3u8
 #EXTINF: -1 tvg-name="GTV-2" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-2
-http://live.flixhub.net/hls/5008.m3u8
+http://opplex.tv:8080/6606/123654/245901
 #EXTINF: -1 tvg-name="GTV-3" tvg-logo="http://toffe.top/images/gtv.png" group-title="Entertainment", GTV-3
 http://172.16.29.3:8080/hls/gtv.m3u8
 #EXTINF: -1 tvg-name="Zamuna TV" tvg-logo="https://media.licdn.com/dms/image/D560BAQFSqJwFY_W_5A/company-logo_200_200/0/1686316063278/jamuna_television_ltd_logo?e=2147483647&v=beta&t=ebcksWsIAUHYvpBALo8hM-jqzypzxZMXtPYb4jIFqgA", GTV-3
