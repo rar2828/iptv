@@ -33,7 +33,7 @@ http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 http://opplex.tv:8080/6606/123654/245902
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="Bangladeshi",NEWS 24
 http://opplex.tv:8080/6606/123654/245903
-#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",Masranga HD
+#EXTINF:-1 tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF" group-title="Bangladeshi",Masranga HD
 http://opplex.tv:8080/6606/123654/245904
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News
 http://opplex.tv:8080/6606/123654/245905
