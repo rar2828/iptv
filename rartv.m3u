@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladeshi", NAGORIK TV-1
+#EXTINF: -1 tvg-logo="https://www.youtube.com/channel/UCYn1balltyOfevD_HM67HmA" group-title="Bangladeshi", NAGORIK TV-1
 http://172.16.29.242:8080/show/5007/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladeshi", NAGORIK TV-2
+#EXTINF: -1 tvg-logo="https://www.youtube.com/channel/UCYn1balltyOfevD_HM67HmA" group-title="Bangladeshi", NAGORIK TV-2
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=m_dPl-sJ3u6SGSlvJOBsYA&expires=1724791848&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF: -1 tvg-logo="http://toffe.top/images/satv.png" group-title="Bangladeshi", SATV
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
@@ -43,41 +43,39 @@ http://opplex.tv:8080/6606/123654/245957
 http://livess.ncare.live/live-orgin/peacetvban.stream/playlist.m3u8
 
 
-#EXTINF: -1 tvg-name="STAR JALSHA-1" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-1
+#EXTINF: -1 tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-1
 http://172.16.29.242:8080/show/5053/index.m3u8
-#EXTINF: -1 tvg-name="STAR JALSHA-2" tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA HD-2
+#EXTINF: -1 tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA HD-2
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA-1" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-1
+#EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA-2" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-2
+#EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-2
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA-3" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-3
+#EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-3
 http://103.151.60.174:7171/hoichoi24.com-manik-vai/index.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA-4" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-4
+#EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-4
 http://opplex.tv:8080/6606/123654/245893
-#EXTINF: -1 tvg-name="ZEE BANGLA HD-5" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD-5
+#EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA HD-5
 http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/49963.m3u8
-#EXTINF: -1 tvg-name="ZEE BANGLA-6" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-6
+#EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-6
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
-#EXTINF: -1 tvg-name="ZEE BANGLA-7" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-7
+#EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-7
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=aLOhTVGUTx8ob-YtE6sQmg&expires=1724792184&user=ef71b837ceef4cd18a6cf7069722d83d
 
 
-#EXTINF: -1 tvg-name="LIVE SPORTS-1" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS-1
+#EXTINF: -1 tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS-1
 http://172.16.29.242:8080/hls/sports4/index.m3u8
-#EXTINF: -1 tvg-name="LIVE SPORTS-2" tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS-2
+#EXTINF: -1 tvg-logo="http://toffe.top/images/live.png" group-title="Sports", LIVE SPORTS-2
 http://17.17.17.2/CH69-SP/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="TEN Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports", TEN Sports
-http://live.flixhub.net/hls/5068.m3u8
-#EXTINF: -1 tvg-name="T-SPORTS-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-1
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-1
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=qqbp1zPsiZh_qpit09ZAfA&expires=1724792162&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF: -1 tvg-name="T-SPORTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-2
 http://xtv.ooo:8080/T4S00515/820172/167590
-#EXTINF: -1 tvg-name="T-SPORTS-3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-3
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-SPORTS-3
 https://daem.short.gy/TSports_FreeDishBhaiHD
-#EXTINF:-1 ,LIVE FOOTBALL (720P)
+#EXTINF:-1 tvg-logo="https://play.google.com/store/apps/details?id=com.cricimworld.footersd&hl=bn" group-title="Sports", LIVE FOOTBALL (720P)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF: -5 tvg-name="LIVE BDIX EVENT-1" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-1
+#EXTINF: -1 tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-1
 http://172.16.29.3:8080/hls/sports4.m3u8
-#EXTINF: -10 tvg-name="LIVE BDIX EVENT-2" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-2
+#EXTINF: -1 tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="Sports", LIVE BDIX EVENT-2
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
