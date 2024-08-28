@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF: -1 tvg-name="NAGORIK TV-1" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladeshi", NAGORIK TV-1
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladeshi", NAGORIK TV-1
 http://172.16.29.242:8080/show/5007/index.m3u8
-#EXTINF: -1 tvg-name="NAGORIK TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladeshi", NAGORIK TV-2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladeshi", NAGORIK TV-2
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=m_dPl-sJ3u6SGSlvJOBsYA&expires=1724791848&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF: -1 tvg-name="SATV" tvg-logo="http://toffe.top/images/satv.png" group-title="Bangladeshi", SATV
+#EXTINF: -1 tvg-logo="http://toffe.top/images/satv.png" group-title="Bangladeshi", SATV
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x13834", group-title="Bangladeshi", Independent TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-#EXTINF: -1 tvg-name="BOISAKHI TV" tvg-logo="http://toffe.top/images/boisakai.png" group-title="Bangladeshi", BOISAKHI TV
+#EXTINF: -1 tvg-logo="http://toffe.top/images/boisakai.png" group-title="Bangladeshi", BOISAKHI TV
 https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF: -1 tvg-name="RTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi", RTV HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi", RTV HD
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF: -1 tvg-name="GTV-1" tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-1
+#EXTINF: -1 tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-1
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=8UwKHLgZ66XH4t9466Wh4Q&expires=1724791590&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF: -1 tvg-name="GTV-2" tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-2
+#EXTINF: -1 tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-2
 http://opplex.tv:8080/6606/123654/245901
-#EXTINF: -1 tvg-name="GTV-3" tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-3
+#EXTINF: -1 tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-3
 http://172.16.29.3:8080/hls/gtv.m3u8
-#EXTINF: -1 tvg-name="Jamuna TV-1" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi", Jamuna TV-1
+#EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi", Jamuna TV-1
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF: -1 tvg-name="Jamuna TV-2" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi", Jamuna TV-2
+#EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi", Jamuna TV-2
 http://live.flixhub.net/hls/4005.m3u8
-#EXTINF: -1 tvg-name="DBC-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi", DBC-1
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi", DBC-1
 http://opplex.tv:8080/6606/123654/245914
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="Bangladeshi", DBC-2
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
-#EXTINF: -1 tvg-name="SOMOY TV-1" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="Bangladeshi", SOMOY TV-1
+#EXTINF: -1 tvg-logo="http://toffe.top/images/Somoytv.png" group-title="Bangladeshi", SOMOY TV-1
 https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF: -1 tvg-name="SOMOY TV-2" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="Bangladeshi", SOMOY TV-2
+#EXTINF: -1 tvg-logo="http://toffe.top/images/Somoytv.png" group-title="Bangladeshi", SOMOY TV-2
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladeshi",BD-loc: Channel 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladeshi", Channel 9
 http://opplex.tv:8080/6606/123654/245902
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="Bangladeshi",BD-loc: NEWS 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="Bangladeshi",NEWS 24
 http://opplex.tv:8080/6606/123654/245903
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Masranga HD" tvg-logo="" group-title="Bangladeshi",BD-loc: Masranga HD
+#EXTINF:-1 tvg-logo="" group-title="Bangladeshi",Masranga HD
 http://opplex.tv:8080/6606/123654/245904
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangladeshi",BD-LOC: ATN News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News
 http://opplex.tv:8080/6606/123654/245905
-#EXTINF:-1 tvg-id="" tvg-name="BD | BANGLA VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="Bangladeshi",BD | BANGLA VISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="Bangladeshi",BANGLA VISION
 http://opplex.tv:8080/6606/123654/245957
-#EXTINF: -1 tvg-name="PEACETV BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6eAyJMJ_PLd8EwafWO_WsfOqyDmyml9r0Fbm7ZfyYKFoC7RsOCuyulAjJWgu2S7v5O8k&usqp=CAU" group-title="Bangladeshi", PEACETV BANGLA
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6eAyJMJ_PLd8EwafWO_WsfOqyDmyml9r0Fbm7ZfyYKFoC7RsOCuyulAjJWgu2S7v5O8k&usqp=CAU" group-title="Bangladeshi", PEACETV BANGLA
 http://livess.ncare.live/live-orgin/peacetvban.stream/playlist.m3u8
 
 
