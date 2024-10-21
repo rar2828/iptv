@@ -11,10 +11,6 @@ https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-1
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=8UwKHLgZ66XH4t9466Wh4Q&expires=1724791590&user=ef71b837ceef4cd18a6cf7069722d83d
-#EXTINF: -1 tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-2
-http://opplex.tv:8080/6606/123654/245901
-#EXTINF: -1 tvg-logo="http://toffe.top/images/gtv.png" group-title="Bangladeshi", GTV-3
-http://172.16.29.3:8080/hls/gtv.m3u8
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi", Jamuna TV-1
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi", Jamuna TV-2
