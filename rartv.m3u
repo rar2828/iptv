@@ -40,8 +40,7 @@ http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF: -1 tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-3
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF: -1 tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Indian Bangla", STAR JALSHA-4
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/7951.m3u8
 #EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-1
 http://103.124.251.164:28015/play/a00v/index.m3u8
 #EXTINF: -1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA-2
