@@ -11,6 +11,8 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2025/Mere%20Husband%20Ki%20Bi
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxKcBpyvbSgpH81q14vxwSCozfmQpZMUlAwQ&s" ,Shomoy Tv
 https://youtu.be/KhP0fz_8vzk
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxKcBpyvbSgpH81q14vxwSCozfmQpZMUlAwQ&s" ,Jamuna Tv
+https://youtu.be/SOOAGyA1j28
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" ,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,EKHON TV
