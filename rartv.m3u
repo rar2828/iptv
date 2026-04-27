@@ -1,4 +1,3 @@
-MOVIE
 
 #EXTINF:-1 group-title="MOVIE's" tvg-logo="https://en.wikipedia.org/wiki/Dhurandhar",Dhurandhar
 http://dflix.live:3001/api/movies/2675/stream
